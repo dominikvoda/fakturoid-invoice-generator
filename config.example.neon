@@ -1,0 +1,13 @@
+fakturoid:
+    # check https://app.fakturoid.cz/<username|slug>/user
+    slug: <fakturoid username|slug>
+    email: <fakturoid email>
+    apiKey: <fakturoid apikey>
+
+invoicing:
+    includeVat: true
+
+subjects:
+    # check https://app.fakturoid.cz/<username|slug>/subjects
+    fcs: subjectId (int) # Future Care Services s.r.o.
+    beLtdBranch: subjectId (int) #Brand Embassy Ltd., odštěpný závod
