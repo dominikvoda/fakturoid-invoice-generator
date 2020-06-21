@@ -10,5 +10,5 @@
 
 ## Usage
 
-1. Run `php fakturoid:generate:invoice <be|fcs> <price>`
+1. Run `php run.php fakturoid:generate:invoice <be|fcs> <price>`
 2. Profit
